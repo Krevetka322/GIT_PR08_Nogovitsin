@@ -1,5 +1,6 @@
 <Solution>
   <Project Path="PR08_Nuzhdin/PR08_Nuzhdin.csproj" />
   <Project Path="PR08_task2/PR08_task2.csproj" Id="cde1c8b9-0a08-4db5-a698-74fbe542c3a2" />
+  <Project Path="PR08_task3/PR08_task3.csproj" Id="67ddd508-3747-4faa-93fa-a396139a542d" />
   <Project Path="PR08_task4/PR08_task4.csproj" Id="29cf8ab2-b8d6-4242-93c5-8195ff82476b" />
 </Solution>
